@@ -21,7 +21,7 @@ This tool:
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ksp-anchor-keeper.git
+git clone https://github.com/OliverWieland/ksp-anchor-keeper
 
 # Install dependencies
 pip install -r requirements.txt
