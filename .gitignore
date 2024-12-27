@@ -13,4 +13,5 @@ wheels/
 *.sfs
 *.db
 *.sqlite3
+*.yaml
 
