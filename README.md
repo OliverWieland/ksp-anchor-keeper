@@ -2,6 +2,14 @@
 
 A Python utility that fixes the "floating anchor" bug in Kerbal Space Program (KSP) where Stamp-O-Tron Ground Anchors gradually drift upwards when reloading saves.
 
+## ⚠️ Important Notice
+
+Please note that this script is still **under development**. 
+
+I cannot guarantee error-free functionality. Therefore, it is **strongly recommended** to create backups of your save files before using the script.
+
+⚠️ **Use at your own risk!**
+
 ## Problem
 In KSP, Stamp-O-Tron Ground Anchors have a known issue where their altitude increases slightly every time a save is loaded. Over time, this causes anchored vessels to drift away from the ground.
 
