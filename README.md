@@ -36,20 +36,20 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. Edit 
+1. Rename or copy
+   _config.yaml.example_
+ to
+  _config.yaml_
 
-main.py
-
- to set 
-
-directory_to_watch
-
+2. Edit
+  _config.yaml_
+and set 'saves_directory' to your KSP save path
  to your KSP saves folder
-2. Run the script:
+3. Run the script:
 ```bash
 python main.py
 ```
-3. The tool will run in the background and automatically fix anchor positions whenever you save your game
+4. The tool will run in the background and automatically fix anchor positions whenever you save your game
 
 ## Configuration
 
